@@ -1,6 +1,6 @@
 ## Hi, I'm Dave👋
 
-I am a PhD student at the University of Leeds working on **robotic manipulation!**
+I am a Postdoctoral researcher at the University of Leeds working on **robotic manipulation!**
 
 The general work of my PhD has been focused on methods of using approximations / simplifications to speed up trajectory optimisation, especially for manipulation in clutter. The two main pieces of work of my PhD so far have been on the following:
 
@@ -11,4 +11,4 @@ Both of these works are focused on speeding up trajectory optimisation times whi
 
 To finish my PhD I am interested in combining learning methods with trajectory optimisation, again in the same vein as my previous two works.
 
-📫 If you want to reach out about anything here is my email! el16dmcr@leeds.ac.uk
+📫 If you want to reach out about anything here is my email! scsdr@leeds.ac.uk
